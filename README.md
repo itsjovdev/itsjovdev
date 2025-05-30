@@ -1,5 +1,5 @@
 
-![Diseño sin título (2)](https://github.com/user-attachments/assets/5d698d0c-2c3d-4cf0-9648-31b1174df61b)
+![image](https://github.com/user-attachments/assets/f4ff9131-66a5-4ff2-8803-48d8a7123444)
 
 
 
