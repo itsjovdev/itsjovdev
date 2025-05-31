@@ -1,5 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/f4ff9131-66a5-4ff2-8803-48d8a7123444)
+![Contador de visitas](https://komarev.com/ghpvc/?username=itsjovdev&color=blue&label=Visitas)
 
 ## Sobre mí
 
