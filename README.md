@@ -1,5 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/f4ff9131-66a5-4ff2-8803-48d8a7123444)
+![Contador de visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjovdev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
 ## Sobre mí
 
