@@ -14,7 +14,7 @@ Con el tiempo decidí formalizar mi formación:
 Estudié **Ingeniería de Sistemas** hasta el sexto ciclo, realicé varios cursos especializados y completé el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
 Desde entonces, no he dejado de aprender ni de construir.
 
-En mi puesto actual desarrollamos software con:
+## En mi puesto actual desarrollamos software con:
 
 - **Django** para el backend  
 - **React** para el frontend  
