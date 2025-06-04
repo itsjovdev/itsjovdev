@@ -19,7 +19,8 @@ Desde entonces, no he dejado de aprender ni de construir.
 - **Django** para el backend  
 - **React** para el frontend  
 - **Flutter** para el desarrollo móvil
-
+- **Docker** para contenerización y despliegue
+- **APIs RESTful** para la comunicación entre frontend y backend
 ## En constante aprendizaje
 
 Sigo formándome de manera constante, profundizando tanto en **frontend** como en **backend** y aplicaciones moviles,  
