@@ -10,9 +10,17 @@ Pasaba horas editando **HTML** y **CSS**, personalizando cada rincón del sitio 
 
 ## Formación
 
-Con el tiempo decidí formalizar mi formación:  
-Estudié **Ingeniería de Sistemas** hasta el sexto ciclo, realicé varios cursos especializados y completé el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+Mi interés por la tecnología me llevó a formalizar mi formación académica.
+Estudié Ingeniería de Sistemas (UAP) hasta el sexto ciclo y realicé varios cursos especializados.
 Desde entonces, no he dejado de aprender ni de construir.
+
+Actualmente curso la Ingeniería Informática en la **UOC (Universitat Oberta de Catalunya)**.
+
+Además, he completado:
+
+- Grado Superior en Desarrollo de Aplicaciones Web (DAW) – CEFP Escola Núria
+- Desenvolupament d’aplicacions amb tecnologies web – The Corner CEPP
+- Desarrollo en Java – Escola Espai
 
 ## En mi puesto actual desarrollamos software con:
 
@@ -25,7 +33,10 @@ Desde entonces, no he dejado de aprender ni de construir.
 
 Sigo formándome de manera constante, profundizando tanto en **frontend** como en **backend** y aplicaciones moviles,  
 siempre motivado por la misma curiosidad que me llevó, de niño, a escribir mis primeras líneas de código.
+## Portafolio
 
+Puedes conocer más sobre mis proyectos y experiencia en:  
+👉 [**devjov.dev**](https://devjov.dev)
 
 
 <picture>
