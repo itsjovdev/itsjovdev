@@ -24,12 +24,13 @@ Además, he completado:
 
 ## En mi puesto actual desarrollamos software con:
 
-- **Django** para el backend  
-- **React** para el frontend  
-- **Flutter** para el desarrollo móvil
-- **Docker** para contenerización y despliegue
-- **APIs RESTful** para la comunicación entre frontend y backend
-## En constante aprendizaje
+Participación en el **diseño y desarrollo** de una **plataforma interna de herramientas corporativas** con **arquitectura de microservicios en monorepo**.
+
+Colaboro en el **desarrollo del frontend con React** y en el **backend con NestJS**, gestionando la **comunicación entre microservicios** y la **integración entre los diferentes módulos de la plataforma**.
+
+También participo en el **diseño y modelado de bases de datos** utilizando **PostgreSQL y MySQL**, así como en procesos de **contenedorización y despliegue con Docker** dentro de la **infraestructura cloud**.
+
+Además, colaboro en la **creación de sitios web con WordPress y PrestaShop**, integrando **maquetas mediante código personalizado** y desarrollando **plugins y módulos en PHP** para cubrir **necesidades específicas del equipo**.
 
 Sigo formándome de manera constante, profundizando tanto en **frontend** como en **backend** y aplicaciones moviles,  
 siempre motivado por la misma curiosidad que me llevó, de niño, a escribir mis primeras líneas de código.
