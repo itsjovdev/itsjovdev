@@ -24,20 +24,19 @@ Además, he completado:
 
 ## En mi puesto actual desarrollamos software con:
 
-Participación en el **diseño y desarrollo** de una **plataforma interna de herramientas corporativas** con **arquitectura de microservicios en monorepo**.
+Diseño y desarrollo de **herramientas internas empresariales con arquitectura de microservicios**, participando en todo el ciclo de desarrollo: **frontend, backend, bases de datos, infraestructura y despliegue**.
 
-Colaboro en el **desarrollo del frontend con React** y en el **backend con NestJS**, gestionando la **comunicación entre microservicios** y la **integración entre los diferentes módulos de la plataforma**.
+Desarrollo aplicaciones empresariales **end to end** con **React y NestJS**, diseñando **APIs**, integrando **microservicios** y modelando bases de datos en **PostgreSQL**.
 
-También participo en el **diseño y modelado de bases de datos** utilizando **PostgreSQL y MySQL**, así como en procesos de **contenedorización y despliegue con Docker** dentro de la **infraestructura cloud**.
+También trabajo con **Docker, Azure y CI/CD** para la **contenerización, despliegue y automatización de aplicaciones**.
 
-Además, colaboro en la **creación de sitios web con WordPress y PrestaShop**, integrando **maquetas mediante código personalizado** y desarrollando **plugins y módulos en PHP** para cubrir **necesidades específicas del equipo**.
+Además, desarrollo **aplicaciones móviles con Flutter** e implemento **soluciones de IA en producción** basadas en **RAG, embeddings y búsqueda semántica**, aplicadas a **documentación y procesos empresariales**.
 
-Sigo formándome de manera constante, profundizando tanto en **frontend** como en **backend** y aplicaciones moviles,  
-siempre motivado por la misma curiosidad que me llevó, de niño, a escribir mis primeras líneas de código.
+
 ## Portafolio
 
 Puedes conocer más sobre mis proyectos y experiencia en:  
-👉 [**devjov.dev**](https://devjov.dev)
+[**joanvasquezsoft**](https://joanvasquezsoft.com/)
 
 
 <picture>
