@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/light.svg">
-  <img alt="Joan Vasquez — Full Stack Developer & AI Engineer" src="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/light.svg?v=3">
+  <img alt="Joan Vasquez — Full Stack Developer & AI Engineer" src="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/light.svg?v=3">
 </picture>
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=itsjovdev&color=blue&label=Visitas)
