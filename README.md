@@ -9,8 +9,8 @@
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=itsjovdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=F97316&fire=F97316&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=itsjovdev&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=F97316&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=itsjovdev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img width="49%" src="https://raw.githubusercontent.com/itsjovdev/itsjovdev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top langs" />
 </div>
 
 <!-- AÑADIR SOLO cuando la Action del snake haya salido en verde -->
